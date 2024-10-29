@@ -1,8 +1,8 @@
 ## Identitas
 
-Nama: 
+Nama: Farras Muhammad Razan
 
-NIM : 
+NIM : 607062400100
 
 ## Instruksi
 
