@@ -30,9 +30,9 @@ public class Soal01 {
         boolean tesGanjil = (P3 % 2 == 1);
         
         if (tesSama&&tesBesar&&tesGanjil) {
-            System.out.println("Valid");
+            System.out.println("valid");
         } else {
-            System.out.println("Tidak Valid");
+            System.out.println("tidak valid");
         }
         return String.format("%d %s", bilangan, valid);
         }
